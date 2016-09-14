@@ -1,1 +1,3 @@
-This is the third text file that I'm creating. I'm now going to add and commit to the repository these text files. 
+This is the change that i'm making to this file. step 11
+
+his is the third text file that I'm creating. I'm now going to add and commit to the repository these text files. 
